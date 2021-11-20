@@ -3,13 +3,17 @@
 ### Hi there 👋
 
 2017 안드로이드 개발
+  - Java7, Native Android
 
-2018 SpringBoot/JPA 기반 웹 백엔드 개발
+2018 웹 백엔드 개발
+  - Java8, SpringBoot, JPA, Maraidb
 
-2019 Anguler 기반 웹 프론트 개발
+2019 웹 프론트 개발
+  - Anguler8, TypeScript, ES6, NodeJs
 
-2020 ~ 2021 Spring/Mybatis/JSP 기반 웹 풀스텍 개발
-
+2020 ~ 2021 웹 풀스텍 개발
+  - Java8, Spring4, Mybatis/Ibatis, JSP, ES5, Oracle, Mariadb
+ 
 ## 2022년 목표
 어중간한 풀스텍 개발자가 아닌 한 분야라도 잘하는 개발자가 되고 싶습니다.
 
