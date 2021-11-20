@@ -4,7 +4,7 @@
 
 2017 안드로이드 개발
 
-2018 Spring/JPA 기반 웹 백엔드 개발
+2018 SpringBoot/JPA 기반 웹 백엔드 개발
 
 2019 Anguler 기반 웹 프론트 개발
 
