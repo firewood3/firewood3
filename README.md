@@ -15,7 +15,7 @@
   - Java8, Spring4, Mybatis/Ibatis, JSP, ES5, Oracle, Mariadb
  
 ## 2022년 목표
-어중간한 풀스텍 개발자가 아닌 한 분야라도 잘하는 개발자가 되고 싶습니다.
+새로운 기술 스텍을 적용한 개발을 하고 싶습니다.
 
 <!--
 **firewood3/firewood3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
